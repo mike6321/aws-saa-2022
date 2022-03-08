@@ -14,6 +14,9 @@ aws saa 시험준비를 위한 repository 입니다.
 * [AMI 실습](https://elderly-yak-238.notion.site/AMI-271b268b9e4f455eb5072c3d23598ab7)
 * [EC2 인스턴스 스토어](https://elderly-yak-238.notion.site/EC2-f6444cb2e1a64a9b856acc5d3fc1d89b)
 * [EBS 볼륨 유형 & EBS 다중 연결](https://elderly-yak-238.notion.site/EBS-EBS-8f456d49c57c4cfb86025bfed3e5a796)
+* [EBS 암호화 및 실습](https://elderly-yak-238.notion.site/EBS-34ae3676697d42b0b6683adfd1f4c502)
+* [EFS 개요](https://elderly-yak-238.notion.site/EFS-868d00624b4a41b38c28e3b3a1c98e9e)
+* [EFS 실습](https://elderly-yak-238.notion.site/EFS-b97d8c906aa94d18a63c13fdb4f0664f)
 
 ------
 
