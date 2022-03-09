@@ -23,3 +23,5 @@ aws saa 시험준비를 위한 repository 입니다.
 ## Skill Builder (SAA - 20 Problem)
 
 * [Skill Builder 연습문제](https://elderly-yak-238.notion.site/Skill-Builder-SAA-20-Problems-a8a61c38cb784f12a9cfc480b12d4714)
+* [Skill Builder 연습문제 풀이 (10)](https://elderly-yak-238.notion.site/Skill-Builder-SAA-10-690c7719ceef47d18be35880cc362b3c)
+* [Skill Builder 연습문제 풀이 (16)](https://elderly-yak-238.notion.site/Skill-Builder-SAA-16-c40f477e752c4ed99f78b4f51cc811b5)
