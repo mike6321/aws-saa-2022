@@ -22,6 +22,12 @@ aws saa 시험준비를 위한 repository 입니다.
 
 ## [섹션30: 실전 테스트 1: 연습시험 -  AWS 공인 솔루션 아키텍트 어소시에이트](https://elderly-yak-238.notion.site/1-AWS-2ab362f655c7436bbfc63c9873b572ef)
 
+[1 Problem](https://elderly-yak-238.notion.site/1-09cc08e172a54e6eb8a6eb5bad91f544)
+
+[2 Problem](https://elderly-yak-238.notion.site/2-a77044a2f3a94d1fa95b46ac93a3db7f)
+
+3 [Problem](https://elderly-yak-238.notion.site/3-b12565dee80d4324bf380c1340ce8375)
+
 ------
 
 ## Skill Builder (SAA - 20 Problem)
