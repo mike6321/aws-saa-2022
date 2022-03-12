@@ -17,7 +17,6 @@ aws saa 시험준비를 위한 repository 입니다.
 * [EBS 암호화 및 실습](https://elderly-yak-238.notion.site/EBS-34ae3676697d42b0b6683adfd1f4c502)
 * [EFS 개요](https://elderly-yak-238.notion.site/EFS-868d00624b4a41b38c28e3b3a1c98e9e)
 * [EFS 실습](https://elderly-yak-238.notion.site/EFS-b97d8c906aa94d18a63c13fdb4f0664f)
-
 ------
 
 ## [섹션30: 실전 테스트 1: 연습시험 -  AWS 공인 솔루션 아키텍트 어소시에이트](https://elderly-yak-238.notion.site/1-AWS-2ab362f655c7436bbfc63c9873b572ef)
