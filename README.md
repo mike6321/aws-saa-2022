@@ -25,7 +25,7 @@ aws saa 시험준비를 위한 repository 입니다.
 
 [2 Problem](https://elderly-yak-238.notion.site/2-a77044a2f3a94d1fa95b46ac93a3db7f)
 
-3 [Problem](https://elderly-yak-238.notion.site/3-b12565dee80d4324bf380c1340ce8375)
+[3 Problem](https://elderly-yak-238.notion.site/3-b12565dee80d4324bf380c1340ce8375)
 
 ------
 
