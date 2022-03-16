@@ -24,6 +24,14 @@ aws saa 시험준비를 위한 repository 입니다.
 
 * [DNS의 개요](https://elderly-yak-238.notion.site/DNS-e0100da880a940d1ba5b359b8e617838)
 * [Route 53의 개요](https://elderly-yak-238.notion.site/Route-53-a3641f77cddf489b91457b3f54f53148)
+* [Route 53 - TTL](https://elderly-yak-238.notion.site/Route-53-TTL-1ac7c8132227472ab0feab5a2f71f19b)
+* [Route 53 CNAME vs Alias](https://elderly-yak-238.notion.site/Route-53-CNAME-vs-Alias-8cba8daf8836408b8afde485cfaad226)
+* [단순 기반 라우팅 정책](https://elderly-yak-238.notion.site/680d0efd78524597b626f54eb1f72d32)
+* [가중치 기반 라우팅 정책](https://elderly-yak-238.notion.site/f18f18d31c4d4aaebc1e514ec884d5c2)
+* [지연 기반 라우팅 정책](https://elderly-yak-238.notion.site/413eeb9ad50d4079a40da1ff48dea42b)
+* [Route 53 - Health Checks](https://elderly-yak-238.notion.site/Route-53-Health-Checks-f52e7bf80bdf4431b1fd9bba1a76d2d3)
+* [장애조치 라우팅 정책](https://elderly-yak-238.notion.site/41a79866a1c042ee814a7e9e9ed0d54f)
+* [지리적 위치 라우팅 정책](https://elderly-yak-238.notion.site/eca84536f6124617b9ef40c54eb6ec8c)
 
 ------
 
