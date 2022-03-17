@@ -3,9 +3,17 @@ aws saa 시험준비를 위한 repository 입니다.
 모든 컨텐트는 개인 Notion에 정리되어 있으며 링크를 통해 정리 예정입니다.
 
 
-# Udemy 강의 정리
+# 기초지식 정리
 
-## 섹션7: EC2 인스턴스 스토리지
+## 컴퓨팅 - EC2
+
+* [EC2 인스턴스 구매 옵션](https://elderly-yak-238.notion.site/EC2-1eea7377440644da96684fcf5431b090)
+* [EC2 인스턴스 유형](https://elderly-yak-238.notion.site/EC2-01fd735ad4724b59b878f1c11fe0e3f9)
+* [네트워크 인터페이스 (ENI)](https://elderly-yak-238.notion.site/ENI-81ccaaa7bfcf4f56be1b1d8553b5bd80)
+
+------
+
+## 인스턴스 스토리지
 
 * [EBS 개요](https://elderly-yak-238.notion.site/EBS-ba4d9cadcf7e438d8b5f8e30864880d9)
 * [EBS 생성 실습](https://elderly-yak-238.notion.site/EBS-d72cd7d7b30c43b3a22daa8906a76cd8)
@@ -20,7 +28,7 @@ aws saa 시험준비를 위한 repository 입니다.
 * [EFS 실습](https://elderly-yak-238.notion.site/EFS-b97d8c906aa94d18a63c13fdb4f0664f)
 ------
 
-## 섹션10: Route 53
+## Route 53
 
 * [DNS의 개요](https://elderly-yak-238.notion.site/DNS-e0100da880a940d1ba5b359b8e617838)
 * [Route 53의 개요](https://elderly-yak-238.notion.site/Route-53-a3641f77cddf489b91457b3f54f53148)
