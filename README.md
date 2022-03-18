@@ -10,6 +10,9 @@ aws saa 시험준비를 위한 repository 입니다.
 * [EC2 인스턴스 구매 옵션](https://elderly-yak-238.notion.site/EC2-1eea7377440644da96684fcf5431b090)
 * [EC2 인스턴스 유형](https://elderly-yak-238.notion.site/EC2-01fd735ad4724b59b878f1c11fe0e3f9)
 * [네트워크 인터페이스 (ENI)](https://elderly-yak-238.notion.site/ENI-81ccaaa7bfcf4f56be1b1d8553b5bd80)
+* [프라이빗 vs 퍼블릭 vs 탄력적 IP](https://elderly-yak-238.notion.site/vs-vs-IP-a63eb2fd8b394848b6993e98d439249d)
+* [프라이빗 vs 퍼블릭 vs 탄력적 IP 실습](https://elderly-yak-238.notion.site/vs-vs-IP-a35bae5aa473489b92783f8b7e270ee5)
+* [EC2 배치그룹](https://elderly-yak-238.notion.site/EC2-60aedaa9bb6443fabd695c9a6276a143)
 
 ------
 
