@@ -13,6 +13,7 @@ aws saa 시험준비를 위한 repository 입니다.
 * [프라이빗 vs 퍼블릭 vs 탄력적 IP](https://elderly-yak-238.notion.site/vs-vs-IP-a63eb2fd8b394848b6993e98d439249d)
 * [프라이빗 vs 퍼블릭 vs 탄력적 IP 실습](https://elderly-yak-238.notion.site/vs-vs-IP-a35bae5aa473489b92783f8b7e270ee5)
 * [EC2 배치그룹](https://elderly-yak-238.notion.site/EC2-60aedaa9bb6443fabd695c9a6276a143)
+* [최대절전모드](https://elderly-yak-238.notion.site/EC2-Hibernate-0c0db3085fad42d5927c9ed2eea26d58)
 
 ------
 
@@ -43,6 +44,12 @@ aws saa 시험준비를 위한 repository 입니다.
 * [Route 53 - Health Checks](https://elderly-yak-238.notion.site/Route-53-Health-Checks-f52e7bf80bdf4431b1fd9bba1a76d2d3)
 * [장애조치 라우팅 정책](https://elderly-yak-238.notion.site/41a79866a1c042ee814a7e9e9ed0d54f)
 * [지리적 위치 라우팅 정책](https://elderly-yak-238.notion.site/eca84536f6124617b9ef40c54eb6ec8c)
+
+------
+
+## **스토리지 - S3**
+
+[S3 - 개요 및 버킷 생성](https://elderly-yak-238.notion.site/S3-ceab6302a2e54841b3e52a64c2317388)
 
 ------
 
