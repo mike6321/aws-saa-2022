@@ -53,6 +53,8 @@ aws saa 시험준비를 위한 repository 입니다.
 * [S3 - 버전 관리](https://elderly-yak-238.notion.site/S3-90fb17fc11d445f0a7e7a4f5c2027988)
 * [S3 - 암호화](https://elderly-yak-238.notion.site/S3-1d00bbc2eae54640827002587ef4eb31)
 * [S3 - 버킷 정책](https://elderly-yak-238.notion.site/S3-c528cc2265a94aa6a678c9814c3d6410)
+* [S3 - 정적 웹사이트 호스팅](https://elderly-yak-238.notion.site/S3-ba65e41be31440f594eeab78142bc5e4)
+* [S3 - Cross-origin resource sharing(CORS)](https://elderly-yak-238.notion.site/S3-Cross-origin-resource-sharing-CORS-d886fac16d52432284d60e51c9430d33)
 
 ------
 
