@@ -49,7 +49,10 @@ aws saa 시험준비를 위한 repository 입니다.
 
 ## **스토리지 - S3**
 
-[S3 - 개요 및 버킷 생성](https://elderly-yak-238.notion.site/S3-ceab6302a2e54841b3e52a64c2317388)
+* [S3 - 개요 및 버킷 생성](https://elderly-yak-238.notion.site/S3-ceab6302a2e54841b3e52a64c2317388)
+* [S3 - 버전 관리](https://elderly-yak-238.notion.site/S3-90fb17fc11d445f0a7e7a4f5c2027988)
+* [S3 - 암호화](https://elderly-yak-238.notion.site/S3-1d00bbc2eae54640827002587ef4eb31)
+* [S3 - 버킷 정책](https://elderly-yak-238.notion.site/S3-c528cc2265a94aa6a678c9814c3d6410)
 
 ------
 
