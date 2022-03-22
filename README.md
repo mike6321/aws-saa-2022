@@ -3,21 +3,21 @@ aws saa 시험준비를 위한 repository 입니다.
 모든 컨텐트는 개인 Notion에 정리되어 있으며 링크를 통해 정리 예정입니다.
 
 
-# 기초지식 정리
+# **기초지식 정리**
 
 ## 컴퓨팅 - EC2
 
-* [EC2 인스턴스 구매 옵션](https://elderly-yak-238.notion.site/EC2-1eea7377440644da96684fcf5431b090)
-* [EC2 인스턴스 유형](https://elderly-yak-238.notion.site/EC2-01fd735ad4724b59b878f1c11fe0e3f9)
-* [네트워크 인터페이스 (ENI)](https://elderly-yak-238.notion.site/ENI-81ccaaa7bfcf4f56be1b1d8553b5bd80)
-* [프라이빗 vs 퍼블릭 vs 탄력적 IP](https://elderly-yak-238.notion.site/vs-vs-IP-a63eb2fd8b394848b6993e98d439249d)
-* [프라이빗 vs 퍼블릭 vs 탄력적 IP 실습](https://elderly-yak-238.notion.site/vs-vs-IP-a35bae5aa473489b92783f8b7e270ee5)
-* [EC2 배치그룹](https://elderly-yak-238.notion.site/EC2-60aedaa9bb6443fabd695c9a6276a143)
-* [최대절전모드](https://elderly-yak-238.notion.site/EC2-Hibernate-0c0db3085fad42d5927c9ed2eea26d58)
+* [EC2 인스턴스 구매 옵션](https://elderly-yak-238.notion.site/EC2-fcd4b20b39c346dd8f88c6eff9e13eff)
+* [EC2 인스턴스 유형](https://elderly-yak-238.notion.site/EC2-f47e1033ddea42a8a1914dc7a9312d43)
+* [네트워크 인터페이스 (ENI)](https://elderly-yak-238.notion.site/ENI-d059ee9723084acf991013b6db172ea1)
+* [프라이빗 vs 퍼블릭 vs 탄력적 IP](https://elderly-yak-238.notion.site/vs-vs-IP-6ba3a50a3a2148d0bb2292d905f9ad40)
+* [프라이빗 vs 퍼블릭 vs 탄력적 IP 실습](https://elderly-yak-238.notion.site/vs-vs-IP-816134d418e24ca28ec228b9fd524bd9)
+* [EC2 배치그룹](https://elderly-yak-238.notion.site/EC2-a2c932dd3a8246d08aa4190f4174d7d4)
+* [최대절전모드](https://elderly-yak-238.notion.site/EC2-Hibernate-9cbdb3f2ee274050a69db08310aaddc4)
 
 ------
 
-## 인스턴스 스토리지
+## 인스턴스 스토리지 - EC2 
 
 * [EBS 개요](https://elderly-yak-238.notion.site/EBS-ba4d9cadcf7e438d8b5f8e30864880d9)
 * [EBS 생성 실습](https://elderly-yak-238.notion.site/EBS-d72cd7d7b30c43b3a22daa8906a76cd8)
@@ -34,42 +34,37 @@ aws saa 시험준비를 위한 repository 입니다.
 
 ## Route 53
 
-* [DNS의 개요](https://elderly-yak-238.notion.site/DNS-e0100da880a940d1ba5b359b8e617838)
-* [Route 53의 개요](https://elderly-yak-238.notion.site/Route-53-a3641f77cddf489b91457b3f54f53148)
-* [Route 53 - TTL](https://elderly-yak-238.notion.site/Route-53-TTL-1ac7c8132227472ab0feab5a2f71f19b)
-* [Route 53 CNAME vs Alias](https://elderly-yak-238.notion.site/Route-53-CNAME-vs-Alias-8cba8daf8836408b8afde485cfaad226)
-* [단순 기반 라우팅 정책](https://elderly-yak-238.notion.site/680d0efd78524597b626f54eb1f72d32)
-* [가중치 기반 라우팅 정책](https://elderly-yak-238.notion.site/f18f18d31c4d4aaebc1e514ec884d5c2)
-* [지연 기반 라우팅 정책](https://elderly-yak-238.notion.site/413eeb9ad50d4079a40da1ff48dea42b)
-* [Route 53 - Health Checks](https://elderly-yak-238.notion.site/Route-53-Health-Checks-f52e7bf80bdf4431b1fd9bba1a76d2d3)
-* [장애조치 라우팅 정책](https://elderly-yak-238.notion.site/41a79866a1c042ee814a7e9e9ed0d54f)
-* [지리적 위치 라우팅 정책](https://elderly-yak-238.notion.site/eca84536f6124617b9ef40c54eb6ec8c)
+* [DNS의 개요](https://elderly-yak-238.notion.site/DNS-b69d8c66e6b64ca7ac95596944cc086b)
+* [Route 53의 개요](https://elderly-yak-238.notion.site/Route-53-26e6b844c0cc40ca8ec9c9acc96d3feb)
+* [Route 53 - TTL](https://elderly-yak-238.notion.site/Route-53-TTL-8980b562fbdd4580b8ab7c13206aee12)
+* [Route 53 CNAME vs Alias](https://elderly-yak-238.notion.site/Route-53-CNAME-vs-Alias-f77020730ffc4b5c8f549b316d841e54)
+* [단순 기반 라우팅 정책](https://elderly-yak-238.notion.site/b8a15271145748e7b9f783df27e1a86f)
+* [가중치 기반 라우팅 정책](https://elderly-yak-238.notion.site/b0b993e6fa774efc89c48ea2e477e5f9)
+* [지연 기반 라우팅 정책](https://elderly-yak-238.notion.site/443953c6e7f6455aa41d8fc9e3c88fb6)
+* [Route 53 - Health Checks](https://elderly-yak-238.notion.site/Route-53-Health-Checks-f7ce551fcac24535a834b83ff76f17cc)
+* [장애조치 라우팅 정책](https://elderly-yak-238.notion.site/abf86d810a474f6c96c7cffd9b49e500)
+* [지리적 위치 라우팅 정책](https://elderly-yak-238.notion.site/546ca78aeaac4edc9a81457d6fb3a9c4)
 
 ------
 
 ## **스토리지 - S3**
 
-* [S3 - 개요 및 버킷 생성](https://elderly-yak-238.notion.site/S3-ceab6302a2e54841b3e52a64c2317388)
-* [S3 - 버전 관리](https://elderly-yak-238.notion.site/S3-90fb17fc11d445f0a7e7a4f5c2027988)
-* [S3 - 암호화](https://elderly-yak-238.notion.site/S3-1d00bbc2eae54640827002587ef4eb31)
-* [S3 - 버킷 정책](https://elderly-yak-238.notion.site/S3-c528cc2265a94aa6a678c9814c3d6410)
-* [S3 - 정적 웹사이트 호스팅](https://elderly-yak-238.notion.site/S3-ba65e41be31440f594eeab78142bc5e4)
-* [S3 - Cross-origin resource sharing(CORS)](https://elderly-yak-238.notion.site/S3-Cross-origin-resource-sharing-CORS-d886fac16d52432284d60e51c9430d33)
+* [S3 - 개요 및 버킷 생성](https://elderly-yak-238.notion.site/S3-e31a71f679c146ea92d9c788e9d4129d)
+* [S3 - 버전 관리](https://elderly-yak-238.notion.site/S3-4df5e19ec76a458bb1d4e86628525e0e)
+* [S3 - 암호화](https://elderly-yak-238.notion.site/S3-f5c73108c0bc42b7b12d4c65fae8b9e2)
+* [S3 - 버킷 정책](https://elderly-yak-238.notion.site/S3-1d86c20c82dd4adda0862e2e9bf31a5a)
+* [S3 - 정적 웹사이트 호스팅](https://elderly-yak-238.notion.site/S3-d9fc0b8583ae4945a2c35f5f4891a41f)
+* [S3 - Cross-origin resource sharing(CORS)](https://elderly-yak-238.notion.site/S3-Cross-origin-resource-sharing-CORS-21ff86857b1c442aa42ef98f3e350a40)
+* [S3 - Access Logs](https://elderly-yak-238.notion.site/S3-Access-Logs-ba70132b0b58450093fd757519667d49)
+* [S3 - Replication](https://elderly-yak-238.notion.site/S3-Replication-6177c7ef49d2463188c79ad9e4f55866)
+* [S3 - Access Logs](https://elderly-yak-238.notion.site/S3-Access-Logs-92b28814f42e401088af0fade84abeca)
 
 ------
 
-## [섹션30: 실전 테스트 1: 연습시험 -  AWS 공인 솔루션 아키텍트 어소시에이트](https://elderly-yak-238.notion.site/1-AWS-2ab362f655c7436bbfc63c9873b572ef)
+# **스터디**
 
-[1 Problem](https://elderly-yak-238.notion.site/1-09cc08e172a54e6eb8a6eb5bad91f544)
-
-[2 Problem](https://elderly-yak-238.notion.site/2-a77044a2f3a94d1fa95b46ac93a3db7f)
-
-[3 Problem](https://elderly-yak-238.notion.site/3-b12565dee80d4324bf380c1340ce8375)
-
-------
-
-## Skill Builder (SAA - 20 Problem)
-
-* [Skill Builder 연습문제](https://elderly-yak-238.notion.site/Skill-Builder-SAA-20-Problems-a8a61c38cb784f12a9cfc480b12d4714)
-* [Skill Builder 연습문제 풀이 (10)](https://elderly-yak-238.notion.site/Skill-Builder-SAA-10-690c7719ceef47d18be35880cc362b3c)
-* [Skill Builder 연습문제 풀이 (16)](https://elderly-yak-238.notion.site/Skill-Builder-SAA-16-c40f477e752c4ed99f78b4f51cc811b5)
+* [OT](https://elderly-yak-238.notion.site/OT-9da1d68fea3148ccb0de86010c869c28)
+* [week2 - *고가용성 및 스케일링성: ELB 및 ASG*](https://elderly-yak-238.notion.site/week2-ELB-ASG-0a3ba2e0877346f786d7d1225b357ceb)
+* [week3 - skill builder 풀이](https://elderly-yak-238.notion.site/week3-skill-builder-494eb05411974327a8dc77ac2116f49d)
+* [week4 - udemy 실전테스트1](https://elderly-yak-238.notion.site/week4-udemy-1-099d28e25a374234af20e2795612bfce)
+* [week5 - 섹션 5, 섹션 6, 섹션 7 퀴즈](https://elderly-yak-238.notion.site/week5-5-6-7-f5fd8f1ebfa347f097dbe4029a31412a)
