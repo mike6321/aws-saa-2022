@@ -58,6 +58,9 @@ aws saa 시험준비를 위한 repository 입니다.
 * [S3 - Access Logs](https://elderly-yak-238.notion.site/S3-Access-Logs-ba70132b0b58450093fd757519667d49)
 * [S3 - Replication](https://elderly-yak-238.notion.site/S3-Replication-6177c7ef49d2463188c79ad9e4f55866)
 * [S3 - Access Logs](https://elderly-yak-238.notion.site/S3-Access-Logs-92b28814f42e401088af0fade84abeca)
+* [S3 - 스토리지 클래스](https://elderly-yak-238.notion.site/S3-5c6d4d6902264185ab2cbdaafdb2913e)
+* [S3 - 수명 주기 정책](https://elderly-yak-238.notion.site/S3-51065d1a7e744a7c97df2879f0002a78)
+* [S3 - 기타기능](https://elderly-yak-238.notion.site/S3-be71380411ac4a85833baced6e670ae1)
 
 ------
 
