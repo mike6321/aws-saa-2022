@@ -5,7 +5,15 @@ aws saa 시험준비를 위한 repository 입니다.
 
 # **기초지식 정리**
 
-## 컴퓨팅 - EC2
+## **IAM (Identity and Access Management)**
+
+* [IAM 개요](https://elderly-yak-238.notion.site/IAM-b8d5e2c40d01408483e96eab506f3f3b)
+* [IAM 유저, 그룹 실습](https://elderly-yak-238.notion.site/IAM-e168d25789054ff599d5a062a9691210)
+* [IAM 정책](https://elderly-yak-238.notion.site/IAM-b9a2fb48074d4827898da185d58b9fec)
+* [IAM 정책 실습](https://elderly-yak-238.notion.site/IAM-e88ddf5319274cf9a8caf8fca890efd3)
+* [IAM 역할 실습](https://elderly-yak-238.notion.site/IAM-389e808a49cb4f3abb211be54b7265d4)
+
+## **컴퓨팅 - EC2**
 
 * [EC2 인스턴스 구매 옵션](https://elderly-yak-238.notion.site/EC2-fcd4b20b39c346dd8f88c6eff9e13eff)
 * [EC2 인스턴스 유형](https://elderly-yak-238.notion.site/EC2-f47e1033ddea42a8a1914dc7a9312d43)
@@ -17,7 +25,7 @@ aws saa 시험준비를 위한 repository 입니다.
 
 ------
 
-## 인스턴스 스토리지 - EC2 
+## **인스턴스 스토리지 - EC2** 
 
 * [EBS 개요](https://elderly-yak-238.notion.site/EBS-ba4d9cadcf7e438d8b5f8e30864880d9)
 * [EBS 생성 실습](https://elderly-yak-238.notion.site/EBS-d72cd7d7b30c43b3a22daa8906a76cd8)
@@ -32,7 +40,7 @@ aws saa 시험준비를 위한 repository 입니다.
 * [EFS 실습](https://elderly-yak-238.notion.site/EFS-b97d8c906aa94d18a63c13fdb4f0664f)
 ------
 
-## Route 53
+## **Route 53**
 
 * [DNS의 개요](https://elderly-yak-238.notion.site/DNS-b69d8c66e6b64ca7ac95596944cc086b)
 * [Route 53의 개요](https://elderly-yak-238.notion.site/Route-53-26e6b844c0cc40ca8ec9c9acc96d3feb)
