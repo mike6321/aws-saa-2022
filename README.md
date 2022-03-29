@@ -93,3 +93,4 @@ aws saa 시험준비를 위한 repository 입니다.
 * [week3 - skill builder 풀이](https://elderly-yak-238.notion.site/week3-skill-builder-494eb05411974327a8dc77ac2116f49d)
 * [week4 - udemy 실전테스트1](https://elderly-yak-238.notion.site/week4-udemy-1-099d28e25a374234af20e2795612bfce)
 * [week5 - 섹션 5, 섹션 6, 섹션 7 퀴즈](https://elderly-yak-238.notion.site/week5-5-6-7-f5fd8f1ebfa347f097dbe4029a31412a)
+* [week6 - 섹션 4, 섹션 9, 섹션 10 퀴즈](https://elderly-yak-238.notion.site/week6-4-9-10-5a7e33f5fe0843dcbe58ca74f1fdbed5)
