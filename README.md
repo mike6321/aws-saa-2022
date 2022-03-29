@@ -84,7 +84,13 @@ aws saa 시험준비를 위한 repository 입니다.
 
 ------
 
+## **스토리지 - 기타**
 
+* [Storage Gateway](https://elderly-yak-238.notion.site/Storage-Gateway-0b8e05bcfe59465ab2941e9dd6df854d)
+* [Storage Gateway 실습](https://elderly-yak-238.notion.site/Storage-Gateway-41d60cd25d5a476f928311ec9142dd2f)
+* [FSx](https://elderly-yak-238.notion.site/FSx-012ee2ae0f8045dca3e7c982e4d9998f)
+
+------
 
 # **스터디**
 
