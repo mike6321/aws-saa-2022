@@ -89,6 +89,17 @@ aws saa 시험준비를 위한 repository 입니다.
 * [Storage Gateway](https://elderly-yak-238.notion.site/Storage-Gateway-0b8e05bcfe59465ab2941e9dd6df854d)
 * [Storage Gateway 실습](https://elderly-yak-238.notion.site/Storage-Gateway-41d60cd25d5a476f928311ec9142dd2f)
 * [FSx](https://elderly-yak-238.notion.site/FSx-012ee2ae0f8045dca3e7c982e4d9998f)
+* [Snow Family](https://elderly-yak-238.notion.site/Snow-Family-d708b083547d48b680b3d74ce04efad6)
+* [Data Sync](https://elderly-yak-238.notion.site/Data-Sync-8e2754ac75d8405686c91ac76685e995)
+* [AWS Backup](https://elderly-yak-238.notion.site/AWS-Backup-193a875d04754a1085fa76da9fb335c0)
+
+------
+
+## **글로벌 전송**
+
+* [CloudFront 개요](https://elderly-yak-238.notion.site/CloudFront-c7c6ffc0402449bdb692dfaf4ecd047d)
+* [CloudFront 실습](https://elderly-yak-238.notion.site/CloudFront-8a7b3b04f80f474dbbf01a4e8bce7948)
+* [CloudFront 보안](https://elderly-yak-238.notion.site/CloudFront-924fac0b9d254afd838f60ee6e1b2c33)
 
 ------
 
