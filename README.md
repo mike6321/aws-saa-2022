@@ -103,7 +103,14 @@ aws saa 시험준비를 위한 repository 입니다.
 
 ------
 
+## 애플리케이션 통합
 
+* [Simple Queue Service(SQS)](https://elderly-yak-238.notion.site/Simple-Queue-Service-SQS-2cf9b43637cf498fb60bad3d0462560f)
+* [Simple Notification Service (SNS)](https://elderly-yak-238.notion.site/Simple-Notification-Service-SNS-3a4f6cb10e4d419fa6e069525c6c00a7)
+* [Kinesis](https://elderly-yak-238.notion.site/Kinesis-43e06a88084e44e19afd9a7ab8afca54)
+* [API Gateway](https://elderly-yak-238.notion.site/API-Gateway-fd0d48d131324696af183eb49e4825a4)
+
+------
 
 # **스터디**
 
