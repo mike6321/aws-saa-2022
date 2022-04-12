@@ -48,7 +48,7 @@ aws saa 시험준비를 위한 repository 입니다.
 * [RDS 암호화 + 보안](https://elderly-yak-238.notion.site/RDS-c091cd68e19247f29e74a132f6555331)
 * [Aurora 개요](https://elderly-yak-238.notion.site/Aurora-f2a593e632f64b2790453306d81205c0)
 * [Aurora - Auto Scaling, Custum Enpoints, Serverless, Multi - Master, Global](https://elderly-yak-238.notion.site/Aurora-Auto-Scaling-Custum-Enpoints-Serverless-Multi-Master-Global-79cd3f1b8ef44b23bd3e1613a7161d62)
-* ElasticCahe 개요
+* [ElasticCahe 개요](https://elderly-yak-238.notion.site/ElasticCahe-39631502c5664aeda7b20a776abd7d48)
 * [DynamoDB](https://elderly-yak-238.notion.site/DynamoDB-873a90633dda40c8bb819098c1543090)
 * [데이터 분석 서비스 (Athena, EMR, Redshift, Glue)](https://elderly-yak-238.notion.site/Athena-EMR-Redshift-Glue-a6a8f66aea8d40929ce8c8f143c1db62)
 
