@@ -43,12 +43,14 @@ aws saa 시험준비를 위한 repository 입니다.
 
 ## RDS + Aurora + ElastiCache
 
-* [Amazon RDS 개요](https://elderly-yak-238.notion.site/Amazon-RDS-f31079ec0f30474f8dd5a3004452756e)
-* [RDS 읽기 전용 레플리카와 다중 AZ](https://elderly-yak-238.notion.site/RDS-AZ-c1f9f49de9f547c58b4bf26e284b34d6)
-* [RDS 암호화 + 보안](https://elderly-yak-238.notion.site/RDS-2268eedefb2049d19b48dd51d415eea1)
-* [Aurora 개요](https://elderly-yak-238.notion.site/Aurora-3f43b1d65a0645bbb6abdd3f83fc9207)
-* [Aurora - Auto Scaling, Custum Enpoints, Serverless, Multi - Master, Global](https://elderly-yak-238.notion.site/Aurora-Auto-Scaling-Custum-Enpoints-Serverless-Multi-Master-Global-55b4f3f719f3408f83b72c8aa29e9b0c)
-* [ElasticCahe 개요](https://elderly-yak-238.notion.site/ElasticCahe-075122b1f67e44f8897a00ea4f3884d7)
+* [Amazon RDS 개요](https://elderly-yak-238.notion.site/Amazon-RDS-a46b1475ecdc4b0ea8aca491b0c0c781)
+* [RDS 읽기 전용 레플리카와 다중 AZ](https://elderly-yak-238.notion.site/RDS-AZ-edd3bd5fbf774b658e60a38bdb073b70)
+* [RDS 암호화 + 보안](https://elderly-yak-238.notion.site/RDS-c091cd68e19247f29e74a132f6555331)
+* [Aurora 개요](https://elderly-yak-238.notion.site/Aurora-f2a593e632f64b2790453306d81205c0)
+* [Aurora - Auto Scaling, Custum Enpoints, Serverless, Multi - Master, Global](https://elderly-yak-238.notion.site/Aurora-Auto-Scaling-Custum-Enpoints-Serverless-Multi-Master-Global-79cd3f1b8ef44b23bd3e1613a7161d62)
+* ElasticCahe 개요
+* [DynamoDB](https://elderly-yak-238.notion.site/DynamoDB-873a90633dda40c8bb819098c1543090)
+* [데이터 분석 서비스 (Athena, EMR, Redshift, Glue)](https://elderly-yak-238.notion.site/Athena-EMR-Redshift-Glue-a6a8f66aea8d40929ce8c8f143c1db62)
 
 ------
 
