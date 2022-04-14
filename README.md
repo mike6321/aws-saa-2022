@@ -114,6 +114,16 @@ aws saa 시험준비를 위한 repository 입니다.
 
 ------
 
+## 보안 및 자격 증명
+
+* [AWS Cognito & AWS Single Sign-On](https://elderly-yak-238.notion.site/AWS-Cognito-AWS-Single-Sign-On-caca0dd0d85c439dbb64d8ca7b7a8c64)
+* [Key Management Service(KMS) & Cloud HSM](https://elderly-yak-238.notion.site/Key-Management-Service-KMS-Cloud-HSM-d98a0a9b4b6b404b90e95367de6b6ae5)
+* [Secrets Manager](https://elderly-yak-238.notion.site/Secrets-Manager-f58ab8075aa34a329c4efb14b39ea4f3)
+* [Shield & WAF](https://elderly-yak-238.notion.site/Shield-WAF-5259a59ce4c843ca878e3adb006cefbf)
+* [GuardDuty, Macie, Inspector](https://elderly-yak-238.notion.site/GuardDuty-Macie-Inspector-244463346a90446b970f39001a8add9d)
+
+------
+
 # **스터디**
 
 * [OT](https://elderly-yak-238.notion.site/OT-9da1d68fea3148ccb0de86010c869c28)
