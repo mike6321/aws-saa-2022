@@ -102,6 +102,7 @@ aws saa 시험준비를 위한 repository 입니다.
 * [CloudFront 개요](https://elderly-yak-238.notion.site/CloudFront-c7c6ffc0402449bdb692dfaf4ecd047d)
 * [CloudFront 실습](https://elderly-yak-238.notion.site/CloudFront-8a7b3b04f80f474dbbf01a4e8bce7948)
 * [CloudFront 보안](https://elderly-yak-238.notion.site/CloudFront-924fac0b9d254afd838f60ee6e1b2c33)
+* [Global Accelerator 개요](https://elderly-yak-238.notion.site/Global-Accelerator-b1a88d265d224e8c84d00344f67aa83c)
 
 ------
 
