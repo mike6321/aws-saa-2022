@@ -128,6 +128,7 @@ aws saa 시험준비를 위한 repository 입니다.
 ## 네트웨크 - VPC
 
 * [NACL & Security Groups](https://jwdeveloper.notion.site/NACL-Security-Groups-f2e05b1d79454bfdb73e22f09b23f102)
+* [NAT Instance and NAT Gateway](https://jwdeveloper.notion.site/NAT-Instance-and-NAT-Gateway-b9857ab980a049f8aed35b98d0f40eda)
 
 ------
 
