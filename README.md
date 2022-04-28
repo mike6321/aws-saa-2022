@@ -131,6 +131,7 @@ aws saa 시험준비를 위한 repository 입니다.
 * [NAT Instance and NAT Gateway](https://jwdeveloper.notion.site/NAT-Instance-and-NAT-Gateway-b9857ab980a049f8aed35b98d0f40eda)
 * [VPC Peering](https://jwdeveloper.notion.site/VPC-Peering-07ed9855fda6426fbc24d2d1f5e17835)
 * [AWS PrivateLink](https://jwdeveloper.notion.site/AWS-PrivateLink-040f8a44577742769e47832153f96211)
+* [VPN & Direct Connect](https://jwdeveloper.notion.site/VPN-Direct-Connect-215698a3740d4c529adb7ef1e51cb689)
 
 ------
 
