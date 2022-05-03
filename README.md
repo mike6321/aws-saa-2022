@@ -79,7 +79,6 @@ aws saa 시험준비를 위한 repository 입니다.
 * [S3 - Cross-origin resource sharing(CORS)](https://jwdeveloper.notion.site/S3-Cross-origin-resource-sharing-CORS-21ff86857b1c442aa42ef98f3e350a40)
 * [S3 - Access Logs](https://jwdeveloper.notion.site/S3-Access-Logs-ba70132b0b58450093fd757519667d49)
 * [S3 - Replication](https://jwdeveloper.notion.site/S3-Replication-6177c7ef49d2463188c79ad9e4f55866)
-* [S3 - Access Logs](https://jwdeveloper.notion.site/S3-Access-Logs-92b28814f42e401088af0fade84abeca)
 * [S3 - 스토리지 클래스](https://jwdeveloper.notion.site/S3-5c6d4d6902264185ab2cbdaafdb2913e)
 * [S3 - 수명 주기 정책](https://jwdeveloper.notion.site/S3-51065d1a7e744a7c97df2879f0002a78)
 * [S3 - 기타기능](https://jwdeveloper.notion.site/S3-be71380411ac4a85833baced6e670ae1)
@@ -132,6 +131,12 @@ aws saa 시험준비를 위한 repository 입니다.
 * [VPC Peering](https://jwdeveloper.notion.site/VPC-Peering-07ed9855fda6426fbc24d2d1f5e17835)
 * [AWS PrivateLink](https://jwdeveloper.notion.site/AWS-PrivateLink-040f8a44577742769e47832153f96211)
 * [VPN & Direct Connect](https://jwdeveloper.notion.site/VPN-Direct-Connect-215698a3740d4c529adb7ef1e51cb689)
+
+------
+
+## 문제풀이
+
+* [Question Part01 (1 ~ 20)](https://jwdeveloper.notion.site/1-1-10-8b81abc4ff6947e59b9bb78240eb5b02)
 
 ------
 
