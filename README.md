@@ -138,6 +138,7 @@ aws saa 시험준비를 위한 repository 입니다.
 ## 문제풀이
 
 * [Question Part01 (1 ~ 20)](https://jwdeveloper.notion.site/1-1-10-8b81abc4ff6947e59b9bb78240eb5b02)
+* [Question Part01 (21 ~ 30)](https://jwdeveloper.notion.site/1-11-20-6084f37c051d4b00b0bcc19b125479be)
 
 ------
 
