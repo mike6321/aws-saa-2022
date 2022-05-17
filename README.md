@@ -141,6 +141,7 @@ aws saa 시험준비를 위한 repository 입니다.
 * [Question Part01 (11 ~ 20)](https://jwdeveloper.notion.site/1-11-20-6084f37c051d4b00b0bcc19b125479be)
 * [Question Part01 (21 ~ 30)](https://jwdeveloper.notion.site/1-21-30-7768d4029c514a13bc7eea788162120e)
 * [Question Part02 (1 ~ 10)](https://jwdeveloper.notion.site/2-1-10-b1fafcb2f59d42f08bb4fa22f5acd845)
+* [Question Part02 (11 ~ 20)](https://jwdeveloper.notion.site/2-11-20-0421e477afc7417dbc57f0b6d1ec8f71)
 
 ------
 
